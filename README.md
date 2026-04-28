@@ -86,10 +86,10 @@ The script will generate a map displaying healthcare data across provinces.
 ## 🤝 Contributors
 
 - **Sarina:** Project owner and main data analyst.  
-  [GitHub Link](#) *(Insert Sarina’s GitHub URL here)*
+  [Sarina’s GitHub](https://github.com/sarina97)
 
 - **Mahan:** Developer and contributor.  
-  [GitHub Link](#) *(Insert Mahan’s GitHub URL here)*
+  [Mahan’s GitHub](https://github.com/mahan-rahmani)
 
 ---
 
