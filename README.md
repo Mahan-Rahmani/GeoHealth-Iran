@@ -7,7 +7,7 @@ Welcome to the **Iran Healthcare Capacity Map** project! This comprehensive geos
 ---
 
 ## 🎯 Data Source & Updates
-This project utilizes data from the **Statistical Center of Iran**, with the core data pertaining to the year **1395 (Iranian Solar Hijri calendar) / 2016 (Gregorian calendar)**.
+This project utilizes data from the **Statistical Center of Iran**, with the core data pertaining to the year **1395 (Iranian Solar Hijri calendar) / 2016 **.
 
 We are passionate about keeping this project up-to-date and relevant. We warmly welcome contributions for improving the project and updating the datasets. Your input can help us create a more accurate and current representation of Iran's healthcare landscape.
 
@@ -51,27 +51,21 @@ pip install pandas geopandas matplotlib
 2. **Prepare the shapefile**
    - Place your Iran provinces shapefile (e.g., `iran_provinces_new.shp`) in the project folder.
    - Ensure it contains a column matching the `column_with_province_names` variable.
-3. **Run the script**
 
-The main script:
-```python
-# Adjust the shapefile path if needed
-shapefile_path = "iran_provinces_new.shp"
-
-# Make sure the column name matches your shapefile
-column_with_province_names = 'name_provi'
-```
-4. **Execute the Python code**
+3. **Execute the Python code**
 ```bash
 python iran_healthcare_map.py
 ```
+***OR***
+
+## + By Double-Clicking the **GeoHealth-Iran.py**
+
 The script will generate a map displaying healthcare data across provinces.
 
 ---
 
 ## 📝 Notes
 - Modify the `data` list in the script to update or customize data.
-- Ensure your shapefile’s province name column matches the specified `column_with_province_names`.
 - Feel free to extend the visualization or integrate additional datasets.
 
 ---
