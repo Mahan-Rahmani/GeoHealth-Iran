@@ -53,11 +53,8 @@ pip install pandas geopandas matplotlib
 ```
  Step-by-step instructions:
 1. **Clone or Download this Repository**
-2. **Prepare the shapefile**
-   - Place your Iran provinces shapefile (e.g., `iran_provinces_new.shp`) in the project folder.
-   - Ensure it contains a column matching the `column_with_province_names` variable.
 
-3. **Execute the Python code**
+2. **Execute the Python code**
 ```bash
 python iran_healthcare_map.py
 ```
