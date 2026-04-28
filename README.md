@@ -33,7 +33,12 @@ This project maps the distribution of hospital beds in relation to population si
 - Clear, interactive-style maps for easy interpretation.
 
 ---
+## 🖌️ We utilized various visualization techniques:
+- **Bar charts** 📊 to represent population distribution across provinces.
+- **Line charts** 📈 for trends or specific linear data (if applicable).
+- **Heatmaps** 🌡️ to visualize the ratio of hospital beds to population, highlighting disparities.
 
+---
 ## 🚀 How to Use
 ### Prerequisites:
 Make sure you have the following installed:
