@@ -7,7 +7,7 @@ Welcome to the **Iran Healthcare Capacity Map** project! This comprehensive geos
 ---
 
 ## 🎯 Data Source & Updates
-This project utilizes data from the **Statistical Center of Iran**, with the core data pertaining to the year **1395 (Iranian Solar Hijri calendar) / 2016 **.
+This project utilizes data from the **Statistical Center of Iran**, with the core data pertaining to the year 1395 (Iranian Solar Hijri calendar) / 2016.
 
 We are passionate about keeping this project up-to-date and relevant. We warmly welcome contributions for improving the project and updating the datasets. Your input can help us create a more accurate and current representation of Iran's healthcare landscape.
 
