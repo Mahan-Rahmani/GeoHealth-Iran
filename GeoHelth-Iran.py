@@ -42,7 +42,7 @@ df = pd.DataFrame(data)
 
 # Part 2: Reading Shapefile, merging, and plotting
 try:
-    shapefile_path = "iran_provinces_new.shp" # Your shapefile name
+    shapefile_path = "ShapeFile\iran_provinces_new.shp" # Your shapefile name
     provinces_gdf = gpd.read_file(shapefile_path)
 
     # !!! Important: Use the correct column name here !!!
